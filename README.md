@@ -27,9 +27,10 @@ To run the program the requirements are:
     - Then clone this to your python main directory (where all the folders are located)
     - Use this code: <br />
     `git clone https://github.com/ultralytics/yolov5`
- 
-### At the end the file directory should look like this: 
-![image](https://user-images.githubusercontent.com/97473894/227968190-d0797c3b-f053-4650-b7dd-025b15534d51.png)
+ - Tesseract-OCR folder
+    - Now go [Here](https://github.com/UB-Mannheim/tesseract/wiki) 
+    - Select and install 64 bit version. 
+    - Put the install destination to your Valorant-AI-master folder > Valorant-AI-master\Tesseract-OCR
 
 How to run the program:
 - After installing everything, just locate your scripts folder in cmd.
