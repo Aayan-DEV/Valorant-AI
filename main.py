@@ -68,6 +68,9 @@ def instalock_reyna():
     heading()
     print("- This place will instalock Reyna for you, as thats the only compatible agent with the Eco management.")
     while True:
+        if keyboard.is_pressed('e') == True:
+            menu()
+            break
         try:
             x, y = pyautogui.locateCenterOnScreen("Assets\\reyna.png")
         except TypeError:
