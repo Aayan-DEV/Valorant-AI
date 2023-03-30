@@ -69,7 +69,7 @@ def instalock_reyna():
     print("- This place will instalock Reyna for you, as thats the only compatible agent with the Eco management.")
     while True:
         try:
-            x, y = pyautogui.locateCenterOnScreen("reyna.png")
+            x, y = pyautogui.locateCenterOnScreen("Assets\\reyna.png")
         except TypeError:
             print("Waiting for selection screen..\r".format(),end="")
         else:
