@@ -106,6 +106,7 @@ This is the Instructions page!
 
 - To enable/disable aim assist, press ' ` ' (The tilde key)
 - To close the program, press '=' (Equals key)
+- To close the Instant Reyna Lock program, press 'e' 
 - To go to the economy management, press 'b'
 - When you will press 'b', there would be a box asking for some info, You have to answer it right!
 
