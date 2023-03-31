@@ -91,6 +91,7 @@ This is the about page!
 - The program isn't a hacking tool
 - The program is made for Personal project
 - The program can only be used with the Agent Reyna
+- The pragram is make for Education Purposes.
           
 Press 'x' to go back.
           ''')
