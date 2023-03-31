@@ -33,6 +33,6 @@ To run the program the requirements are:
     - Put the install destination to your Valorant-AI-master folder > Valorant-AI-master\Tesseract-OCR
 
 How to run the program:
-- After installing everything, just locate your scripts folder in cmd.
+- After installing everything, just locate your Valorant-AI-master folder in cmd.
 - Then type in `python main.py`
 - And then it will run, and you can go and choose any option and run the program.
