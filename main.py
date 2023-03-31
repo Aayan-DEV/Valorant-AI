@@ -42,6 +42,7 @@ def menu():
 [3] About the Economey Management
 [4] About
 [5] Instructions
+[6] Quit
           ''')
     ans2 = input("> ")
     if ans2 == "1":
@@ -60,6 +61,9 @@ def menu():
     elif ans2 == "5":
         os.system('cls')
         Instructions()
+    elif ans2 == "6":
+        os.system('cls')
+        quit()
     else: 
         os.system('cls')
         menu()
